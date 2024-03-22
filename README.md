@@ -42,7 +42,11 @@ Please, fill the following sections about your project.
 > - What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
 > - In case you are using a dataset that you have already explored in another context (ML or ADA course, semester project...), you are required to share the report of that work to outline the differences with the submission for this class.
 
-## Milestone 2 (26th April, 5pm)
+The most significant website to visualize Michelin Restaurants is [Via Michelin](https://www.viamichelin.com/web/Maps). However, the website provides route planning services independent from Michelin-rated restaurants and offer basic filtering options based on star ratings and price which can be extended much more. Our second inspiration is the platform [The Fork](https://www.thefork.com/) where users can search any restaurant, see their menus and filter according to their features. 
+The main drive for us to pursue the Michelin Guide data apart from our gourmet interests was that there is a lack of effective visualizations to engage the audience by filtering the restaurants according to their various features alongside with an interactive map to show these filtered results in an engaging manner and generating routes including the selected resturants. Our approach stands out in its originality with an extensive range of filtering options beyond just star rating and prices such as different dietary preferences (vegeterian, vegan, gluten free etc.), ambiance (pet friendly, wheelchair etc.), cuisine types and sustainability practices with a user friendly interface alongside an interactive map to present the filtered results in a dynamic and engaging manner. By combining the past approaches and providing a platform to visualize both the restaurants and routes in a detailed and easy to navigate fashion, our visualization aims to address the existing gap, to offer a unique combination of features and to become a valuable resource for food enthusiasts seeking personalized dining experiences based on their specific preferences and travel routes.
+
+
+
 
 **10% of the final grade**
 
