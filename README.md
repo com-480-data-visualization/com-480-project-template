@@ -1,7 +1,7 @@
 # Project of Data Visualization (COM-480)
 
 | Student's name | SCIPER |
-| -------------- | ------ |
+| Quentin Esteban | 288211 |
 | Malo Ranzetti | 296956 |
 | Anne Silvestre de Sacy| 360399|
 | | |
