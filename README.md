@@ -2,7 +2,7 @@
 
 | Student's name | SCIPER |
 | -------------- | ------ |
-| | |
+| Malo Ranzetti | 296956 |
 | | |
 | | |
 
