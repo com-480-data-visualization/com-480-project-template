@@ -1,4 +1,5 @@
-# Project of Data Visualization (COM-480)
+# LeadingAI
+## Data Visualization (COM-480) - 2024 Project
 
 | Student's name | SCIPER |
 |---|---|
