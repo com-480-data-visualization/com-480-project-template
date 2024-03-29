@@ -1,5 +1,5 @@
-# LeadingAI
-## Data Visualization (COM-480) - 2024 Project
+# LeadingAI - Visualising global AI state actors
+### Data Visualization (COM-480) - 2024 Project
 
 | Student's name | SCIPER |
 |---|---|
